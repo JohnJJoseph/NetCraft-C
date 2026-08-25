@@ -59,6 +59,3 @@ This software is intended **only** for:
 
 Unauthorized use of these tools against systems you do not own may violate applicable laws. The authors assume no liability for misuse.
 
-## License
-
-MIT — See [LICENSE](LICENSE).
